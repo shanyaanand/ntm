@@ -1,4 +1,4 @@
-# NTM :
+# Description :
       main.jl encapsulate of the function
       con.jl contains definition of controller
       utils.jl contains utility functions like content_finding, gated_interpolation etc 
